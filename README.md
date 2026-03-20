@@ -156,6 +156,10 @@ cargo test
 | Double claim | Already-claimed index -> `AlreadyClaimed` |
 | Invalid proof | Tampered proof -> `InvalidProof` |
 
+### Contract ID
+
+The `CONTRACT_ID` done with this project is confirmed as procedurally done.
+
 ---
 
 ## Project Structure
