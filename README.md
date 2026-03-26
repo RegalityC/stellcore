@@ -13,6 +13,7 @@ A Soroban smart contract for Merkle-proof-based token distribution on the Stella
 - [Leaf Hashing and Proof Verification](#leaf-hashing-and-proof-verification)
 - [Security Considerations](#security-considerations)
 - [Development](#development)
+- [Deployment](#deployment)
 
 ---
 
