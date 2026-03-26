@@ -156,9 +156,15 @@ cargo test
 | Double claim | Already-claimed index -> `AlreadyClaimed` |
 | Invalid proof | Tampered proof -> `InvalidProof` |
 
-### Contract ID
+## Deployment
 
-The `CONTRACT_ID` done with this project is confirmed as procedurally done.
+The deployment performed with this project is confirmed with the following:
+
+| Field | Submission |
+|-------|----------------|
+| **GitHub Repository** | `https://github.com/RegalityC/veridrop` |
+| **Contract ID** | CD5RUPOPD3CW5XZWPAMMC6HOY6EDOVSWWJ3IJB2DRDH4DULUDOAGDUUE |
+| **Stellar Expert Link** | `https://stellar.expert/explorer/testnet/contract/CD5RUPOPD3CW5XZWPAMMC6HOY6EDOVSWWJ3IJB2DRDH4DULUDOAGDUUE` |
 
 ---
 
